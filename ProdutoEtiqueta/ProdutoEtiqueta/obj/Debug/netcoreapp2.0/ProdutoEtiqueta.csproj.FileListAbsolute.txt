@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProdutoEtiqueta\ProdutoEtiqueta\bin\Debug\netcoreapp2.0\ProdutoEtiqueta.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProdutoEtiqueta\ProdutoEtiqueta\bin\Debug\netcoreapp2.0\ProdutoEtiqueta.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProdutoEtiqueta\ProdutoEtiqueta\bin\Debug\netcoreapp2.0\ProdutoEtiqueta.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProdutoEtiqueta\ProdutoEtiqueta\bin\Debug\netcoreapp2.0\ProdutoEtiqueta.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProdutoEtiqueta\ProdutoEtiqueta\bin\Debug\netcoreapp2.0\ProdutoEtiqueta.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProdutoEtiqueta\ProdutoEtiqueta\obj\Debug\netcoreapp2.0\ProdutoEtiqueta.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProdutoEtiqueta\ProdutoEtiqueta\obj\Debug\netcoreapp2.0\ProdutoEtiqueta.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProdutoEtiqueta\ProdutoEtiqueta\obj\Debug\netcoreapp2.0\ProdutoEtiqueta.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProdutoEtiqueta\ProdutoEtiqueta\obj\Debug\netcoreapp2.0\ProdutoEtiqueta.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProdutoEtiqueta\ProdutoEtiqueta\obj\Debug\netcoreapp2.0\ProdutoEtiqueta.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProdutoEtiqueta\ProdutoEtiqueta\obj\Debug\netcoreapp2.0\ProdutoEtiqueta.pdb
